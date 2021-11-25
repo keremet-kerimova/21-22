@@ -1,3 +1,19 @@
-.one{
-    background-color: blue;
+.conteiner{
+    display: flex;
+justify-content: center;
+
 }
+ul {
+    list-style-type: none;
+   
+}
+a{
+    padding: 15px;
+    background-color: aqua;
+}
+img{
+    float: left;
+    width: 70px;
+    margin-top: -12px;
+}
+
