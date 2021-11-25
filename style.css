@@ -8,12 +8,11 @@ ul {
    
 }
 a{
-    padding: 15px;
+    padding: 14px;
     background-color: aqua;
 }
 img{
-    float: left;
-    width: 70px;
-    margin-top: -12px;
+   width: 75px;
+   margin-bottom: -15px;
 }
 
